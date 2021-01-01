@@ -22,7 +22,10 @@ Cette application mobile est une liste des pokémon avec leurs information lorsq
   - par la suite il est possible d'accéder directement à l'évolution du pokémon en y cliquant dessus par "next evolution" ou "prev evolution".
 
 
+![Capture3](https://user-images.githubusercontent.com/76853344/103448029-cbead380-4c93-11eb-8bf1-b2c865abb980.JPG).
 
+
+![Capture4](https://user-images.githubusercontent.com/76853344/103448030-cbead380-4c93-11eb-99f5-789ab9ec8ff9.JPG).
 
 
 ### Compatibilité
