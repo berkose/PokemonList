@@ -13,10 +13,10 @@ par la suite il est possible d'accéder directement à l'évolution du pokémon 
 
 Ce projet est compatible avec toutes les tablettes et tous les smartphones android.
 
-#### Fabriqué avec
+### Fabriqué avec
 
 Android Studio
 
-##### Auteur
+### Auteur
 
 Berkant KOSE
