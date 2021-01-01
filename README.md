@@ -12,10 +12,13 @@ A l'ouverture de l'application on accède directement à la page contenant toute
 
 après avoir cliquer sur un pokémon on peut voir les informations sur celui-ci,
 
-
+![Capture2](https://user-images.githubusercontent.com/76853344/103448027-cbead380-4c93-11eb-92b2-8167b1cf435a.JPG)
 
 par la suite il est possible d'accéder directement à l'évolution du pokémon en y cliquant dessus par
 "next evolution" ou "prev evolution"
+
+
+
 
 ### Compatibilité
 
